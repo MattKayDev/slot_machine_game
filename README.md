@@ -7,7 +7,7 @@ Simple slot machine game made using Javascript
 This simple slot machine game allows user to enter balance they have to play.
 User then can pick how many lines they want to bet on and allows them to say how much they want to bet per line out of their balance.
 
-> Remember that you should always gamble responsbily 😊
+> Remember that you should always gamble responsibly 😊
 
 After every game the user is asked if they want to continue playing unless they run out of money which  will stop the game.
 
